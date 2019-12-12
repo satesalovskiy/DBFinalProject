@@ -5,9 +5,9 @@ import java.util.ArrayList;
 
 public class DataBase {
     public static final String FIRST_DB_CONNECTION = "sample";
-    public static final String MAIN_DB_NAME = "pipsa";
-    public static final String LOGIN = "tessergey";
-    public static final String PASSWORD = "obodut91";
+    public static final String MAIN_DB_NAME = "SeriousDB";
+    public static final String LOGIN = "***";
+    public static final String PASSWORD = "***";
 
     public String nameTable1;
     public String nameTable2;
